@@ -1,0 +1,12 @@
+variable is the container that hold the resuable data.
+DOM= document object method(give the particular object where we can change)
+string concatenation = means "" and adding
+operator = is a symbol that tell the compiler which arithmetic orlogical between operand
+function = function are group of code of program which is used more often
+it leads code reusability and clean 
+condition statement used to change the flow of the program execution.
+array is a group of continous memory location. it is used to store multiple values into a single variable
+a loop is used to repeat a block of code until the specified condition is method
+a foreach loop is used to get data from js array or object.
+continue statement is used to skipthe current iteration and go to next iteration
+break statement is used to break the execution of current loop or switch case.
